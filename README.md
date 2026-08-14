@@ -21,7 +21,7 @@
 ## Перед публикацией
 
 1. В Firebase Authentication включите Email/Password.
-2. В разделе Users создайте пользователя `lukshaolga982@gmail.com`.
+2. В разделе Users создайте пользователя `lukshaolga1982@gmail.com`.
 3. Скопируйте обновлённое содержимое `firestore.rules` во вкладку Firestore Database → Rules и нажмите Publish. Оно разрешает всем просмотр, но редактирование — только вашему email.
 4. Загрузите `index.html`, `style.css` и `app.js` в корень репозитория GitHub.
 5. В Settings → Pages выберите Deploy from a branch, `main`, `/ (root)`.
